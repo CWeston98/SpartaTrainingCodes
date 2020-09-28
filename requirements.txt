@@ -1,0 +1,7 @@
+setuptools
+numpy
+pytest
+scipy
+matplotlib
+pymongo
+requests
