@@ -31,3 +31,6 @@ For the weekend after our attempt to complete the rabbit project, I worked on re
 ## starwars_mongodb
 As with the pokemon_api, this uses the requests package to access an online API. However, this also saves the information into a MongoDB database, referencing the memory locations of items already present in the database. Can be run using the 'get_pilots.py' file - will only work if the MongoDB daemon is open in the background.
 
+## Takeaway Project
+Used databricks to run a notebook with access to PySpark. Included some data analysis, using Python to create visualisations. Can be found at:  
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8502256505760926/422960004629511/798258427306644/latest.html
