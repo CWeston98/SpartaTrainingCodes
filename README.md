@@ -2,19 +2,6 @@
 The following is a cleaned-up repo of all of the Python codes I was involved in during my training at Sparta
 
 
-## python_games
-Represents the first work that I produced at Sparta - didn't use OOP or functions effectively but shows the starting point for the training.
-
-### fizz_buzz
-The very first game I produced during my time at Sparta. Contains a single file which can be run to start the game. The inputs will only move on if entered correctly so it is difficult to obtain an error.
-
-### scrabble
-The second project I worked on, here I learned about some of the basics of testing. Contains a file called 'scrabble_game.py' which, when run, starts the game. The 'test_scrabble.py' file can be run to test the functions used in the script. The board is not very robust and can throw errors easily, but it is a starting point that helps to make the game look better.
-
-### hangman
-The third project I undertook during my training and my first attempt to use multiple classes and files. It can be run using the 'combiner.py' file inside the directory
-
-
 ## pokemon_api
 My first attempt to extract data from a website using requests, and first use of a config file to create a single point of truth. Creates customised pages for 'pokemon' and 'ability', but not for all of the pages in the contents. It can be run by running the 'contents.py' file inside the contents directory.
 
